@@ -1,6 +1,11 @@
 # Código de Conducta
+
 ### **Introdución**
+
 El corazón de **Undefined Shell** es la gente. Ponemos a las personas primero y hacemos nuestro mejor esfuerzo para reconocer, apreciar y respetar la diversidad de todos los participantes. **Undefined Shell** agradece las participaciones de todos los que comparten nuestros objetivos y desean participar de manera saludable y constructiva dentro de nuestra **comunidad**. Como tal, hemos adoptado este código de conducta y exigimos a todos los que participan que estén de acuerdo y se adhieran a estas pautas para ayudarnos a crear una experiencia segura y positiva para todos.
+
+Test change.
+Test change 2.
 
 Estas pautas apuntan a apoyar una **comunidad** donde todas las personas deben sentirse seguras para participar, presentar nuevas ideas e inspirar a otros, independientemente de:
 
@@ -86,7 +91,7 @@ Puede reportar un incidente con algún organizador de la **comunidad** **Undefin
 
 - Guillermo Rodas
 
-En Twitter y/o Instagram, mensaje directo a @undefinedshell    
+En Twitter y/o Instagram, mensaje directo a @undefinedshell
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la **comunidad** para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
@@ -100,7 +105,7 @@ Esta declaración agradece lo siguiente, en la cual se basa en contenido e inspi
 
 - [https://github.com/medellincss/codigo-de-conducta](https://github.com/medellincss/codigo-de-conducta)
 
-- [https://www.djangoproject.com/conduct/](https://www.djangoproject.com/conduct/) 
+- [https://www.djangoproject.com/conduct/](https://www.djangoproject.com/conduct/)
 
 - [http://2018.jsday.es/es/code-of-conduct-es.html](http://2018.jsday.es/es/code-of-conduct-es.html)
 
